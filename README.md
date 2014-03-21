@@ -1,13 +1,17 @@
-cherrysplit
+Cherrysplit
 ==========
 
 Idea generator based on the cherry splitting method.
-How to get ideas by dividing a challenge into two or more components 
-and then reassembling them in different ways.
+
+
 
 Technique
 ---------
 Fractionation
+How to get ideas by dividing a challenge into two or more components 
+and then reassembling them in different ways.
+
+Technique from Michael Michalkos book: Thinkertoys - A Handbook of Creative-Thinking Techniques.
 
 Process
 -------
