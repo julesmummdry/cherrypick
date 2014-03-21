@@ -1,4 +1,4 @@
-cherrypick
+cherrysplit
 ==========
 
-idea generator based on the cherry picking method
+idea generator based on the cherry splitting method
